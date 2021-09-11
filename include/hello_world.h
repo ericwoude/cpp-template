@@ -4,6 +4,6 @@
 
 #include <string>
 
-const std::string helloWorldMessage = "Hello World"; 
+const std::string helloWorldMessage = "Hello World";
 
-#endif // HELLOWORLD_H
+#endif  // HELLOWORLD_H
